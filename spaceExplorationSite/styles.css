@@ -1,0 +1,78 @@
+
+@font-face {
+    src: url("images/Orbitron-Bold.ttf");
+    font-family: Orbitron-Bold;
+}
+
+@font-face {
+    src: url("images/Orbitron-Regular.ttf");
+    font-family: Orbitron-Regular;
+}
+
+body {
+    color: #9A9DB7ff;
+    text-align: center;
+    font-family: Orbitron-Bold;
+    margin: 0px;
+
+    /* Propertys, for embedded Google Fonts:
+    font-family: "Orbitron", sans-serif;
+    font-weight: 800;
+    */
+}
+
+h1 {
+    text-shadow: 0px 0px 1px white;
+}
+
+.hero-section {
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    padding: 100px 0 100px 0;
+    
+}
+
+.main-cont {
+    display: block;
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.5);
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 10px;
+}
+
+
+#logo {
+    width: 150px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.underline {
+    text-decoration: underline white 3px;
+    text-underline-offset: 8px;
+}
+
+h3 {
+    font-size: 40px;
+    text-shadow: 1px 1px 1px black;
+}
+
+.apply-btn {
+    color: black;
+    width: auto;
+    font-size: 20px;
+    margin: 20px;
+    padding: 7px 12px 7px 12px;
+    background: white;
+    border: none;
+    font-family: Orbitron-Bold;
+}
+
+/* 
+// Add to favorites: 
+// https://giphy.com/
+// https://unsplash.com/ 
+// https://coolors.co/
+ */
