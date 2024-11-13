@@ -1,0 +1,105 @@
+
+body {
+    font-family: "Happy Monkey", system-ui;
+    text-align: center;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0px 0px 1px black;
+}
+
+a {
+    color: #ffffff;
+    
+}
+
+.footer-section {
+    font-style: italic;
+    width: 400px;
+    display: block;
+    margin: 40px auto 40px auto;
+
+}
+
+#nick {
+    width: 150px;
+    border: 6px solid #EFB0C9;
+    border-radius: 50%;
+}
+
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 8px 0 10px 0;
+}
+
+#bday-date {
+    background: #EFB0C9;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.gift-img {
+    background-image: url("gift-cover.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    border: 7px solid white;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#gift-img-cheers {
+    height: 200px;
+}
+
+#gift-img-cheers:hover {
+    background-image: url("cheers.gif");
+    
+}
+
+#gift-img-happy:hover {
+    background-image: url("happy.gif");
+}
+
+#gift-img-hot:hover {
+    background-image: url("hot.gif");
+}
+
+
+#gift-img-genius:hover {
+    background-image: url("genius.gif");
+}
+
+
+#gift-img-badass:hover {
+    background-image: url("badass.gif");
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+/* 
+// Add to bookmarks:
+// userway.org - To check contrast ratio */
