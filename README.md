@@ -25,6 +25,13 @@ Live version here: https://digitalbusinesscard-nnmaki.netlify.app/
 
 ![screenshot_digitalbusinesscard](https://github.com/user-attachments/assets/03ab9da8-4bca-4526-a136-e994cb9267ac)
 --
+### Google Clone -site
+For learning to styling page with given instructions
+
+Live version here: https://nnmaki-google-clone-site.netlify.app/
+
+![screenshot_googleclone](https://github.com/user-attachments/assets/75d9f3d6-6779-4f14-928a-369154b3a6c9)
+--
 
 
 Thank you to the Scrimba team for an excellent and engaging course. 👍
