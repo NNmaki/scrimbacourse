@@ -17,6 +17,14 @@ Live version here: https://nnmaki-space-exploration-site.netlify.app/
 
 ![screenshot_spaceexpl](https://github.com/user-attachments/assets/5e8f8cdd-73eb-404c-a157-51752f20072a)
 --
+### Digital Business Card
+Just for learning basics for Flexbox CSS-element
+
+Live version here: https://digitalbusinesscard-nnmaki.netlify.app/  
+
+![screenshot_digitalbusinesscard](https://github.com/user-attachments/assets/03ab9da8-4bca-4526-a136-e994cb9267ac)
+--
+
 
 Thank you to the Scrimba team for an excellent and engaging course. 👍
 
