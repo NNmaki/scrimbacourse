@@ -3,7 +3,7 @@
 
 I have started to improve my front end developing skills on Scrimba platform. This Front End Developer Career Path -course aims to teach participiants into a job-ready frontent developer in less than six months. Course includes hundreds of interactive coding challenges with several independently made portfolio projects. 
 
-This repo is for my <em>small excercises</em> for Scrimba course, and there will be separate repositorys for each <em>bigger portfolio projects.</em>
+This repo for Scrimba-team to tracking my progress and for certification purposes at the end of course. In this repository I keep my <em>small excercises</em> for Scrimba course, and there will be separate repositorys for each <em>bigger portfolio projects.</em>
 
 Will update this project as I progress.. 😀
 
