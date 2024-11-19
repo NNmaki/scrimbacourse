@@ -32,6 +32,15 @@ Live version here: https://nnmaki-google-clone-site.netlify.app/
 
 ![screenshot_googleclone](https://github.com/user-attachments/assets/75d9f3d6-6779-4f14-928a-369154b3a6c9)
 --
+### Birthday Card
+Learning hover effect with CSS
+
+Live version here: https://nnmaki-google-clone-site.netlify.app/
+
+![screenshot_birthdaycard](https://github.com/user-attachments/assets/4789c66d-6abd-4b60-8b8b-ae7f175191e9)
+
+
+--
 
 
 Thank you to the Scrimba team for an excellent and engaging course. 👍
