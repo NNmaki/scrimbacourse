@@ -1,4 +1,5 @@
-# Frond End Developer Career Path - Course by https://scrimba.com
+# Frond End Developer Career Path 
+## - Course by https://scrimba.com
 
 I have started to improve my front end developing skills on Scrimba platform. This Front End Developer Career Path -course aims to teach participiants into a job-ready frontent developer in less than six months. Course includes hundreds of interactive coding challenges with several independently made portfolio projects. 
 
