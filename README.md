@@ -16,6 +16,7 @@ Small landing page-exercise with CSS and HTML
 Live version here: https://nnmaki-space-exploration-site.netlify.app/
 
 ![screenshot_spaceexpl](https://github.com/user-attachments/assets/5e8f8cdd-73eb-404c-a157-51752f20072a)
+
 --
 ### Digital Business Card
 Just for learning basics for Flexbox CSS-element
