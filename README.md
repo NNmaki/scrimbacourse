@@ -35,7 +35,7 @@ Live version here: https://nnmaki-google-clone-site.netlify.app/
 ### Birthday Card
 Learning hover effect with CSS
 
-Live version here: https://nnmaki-google-clone-site.netlify.app/
+Live version here: https://nnmaki-birthday-gif-t.netlify.app/
 
 ![screenshot_birthdaycard](https://github.com/user-attachments/assets/4789c66d-6abd-4b60-8b8b-ae7f175191e9)
 
