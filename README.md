@@ -9,11 +9,14 @@ Will update this project as I progress.. 😀
 Excercises so far:
 
 --
+
 ### Space Exploration site
 Small landing page-exercise with CSS and HTML
 
 ![screenshot_spaceexpl](https://github.com/user-attachments/assets/5e8f8cdd-73eb-404c-a157-51752f20072a)
+
 Live version here: https://nnmaki-space-exploration-site.netlify.app/
+
 --
 
 Thank you to the Scrimba team for an excellent and engaging course. 👍
