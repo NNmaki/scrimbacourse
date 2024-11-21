@@ -11,7 +11,7 @@ Excercises so far:
 
 --
 ### Shooting Star Counter
-Very simple Java Script -practice. Counts user inputs, stores it and patches stored values on page.
+Very simple Java Script -practice. Counts user inputs, stores it and patches stored values on page. First excercise on "Making websites interactive" -module. Original idea was Passenger Counter, but I did a bit of personalisation.
 
 Live version here: https://nnmaki-shooting-star-counter.netlify.app/
 
