@@ -19,14 +19,14 @@ Live version here: https://nnmaki-space-exploration-site.netlify.app/
 
 --
 ### Digital Business Card
-Just for learning basics for Flexbox CSS-element
+Just for learning basics of Flexbox CSS-element
 
 Live version here: https://digitalbusinesscard-nnmaki.netlify.app/  
 
 ![screenshot_digitalbusinesscard](https://github.com/user-attachments/assets/03ab9da8-4bca-4526-a136-e994cb9267ac)
 --
 ### Google Clone -site
-For learning to styling page with given instructions
+For learning to style page with given instructions
 
 Live version here: https://nnmaki-google-clone-site.netlify.app/
 
