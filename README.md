@@ -10,6 +10,14 @@ Will update this project as I progress.. 😀
 Excercises so far:
 
 --
+### Shooting Star Counter
+Very simple Java Script -practice. Counts user inputs, stores it and patches stored values on page.
+
+Live version here: https://nnmaki-shooting-star-counter.netlify.app/
+
+![screenshot_shootingstarcounter](https://github.com/user-attachments/assets/4cd00351-ed65-4d23-99f0-edf25c5e0a2d)
+
+--
 ### Space Exploration site
 Small landing page-exercise with CSS and HTML
 
