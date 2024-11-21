@@ -1,0 +1,50 @@
+
+body {
+    background-image: url("images/backround.jpg");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.main-section {
+    max-width: 600px;
+    background-color: rgba(0, 8, 54, 0.5);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+h1, h2, h3 {
+    margin: 20px 0 30px 0;
+}
+
+button {
+    color: white;
+    width: 180px;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 2px solid white;
+    background-color: #09548a;
+    margin: 20px 10px 0 10px;
+}
+p {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+#increment-btn {
+    background: linear-gradient(#09548a, #841c21);
+}
+
+#save-btn {
+    background: linear-gradient(#09548a, #104e10);
+}
