@@ -9,6 +9,19 @@ Will update this project as I progress.. 😀
 
 Excercises so far:
 
+
+--
+### Hometown Homepage
+This is an exercise, and first so called solo project, of Scrimba Front End Developer Career Path.
+
+I Have chosen to make info-page of Helsinki, capital city of Finland. I included some "not needed" features, e.g. favicon and hover effects, and also found a way to implement so called sticky backround. There might be too much code in stylesheet and certainly there is a way to make css shorter.
+
+Separate repo here https://github.com/NNmaki/HometownHomepageScrimbacourse
+
+Live version https://nnmaki-hometown-homepage2.netlify.app/
+
+![screenshot_hometownhomepage](https://github.com/user-attachments/assets/c76ca3c3-0dcb-485b-9fa7-d459315a20d5)
+
 --
 ### Shooting Star Counter
 Very simple Java Script -practice. Counts user inputs, stores it and patches stored values on page. First excercise on "Making websites interactive" -module. Original idea was Passenger Counter, but I did a bit of personalisation.
