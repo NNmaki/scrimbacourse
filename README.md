@@ -10,6 +10,17 @@ Will update this project as I progress.. 😀
 Excercises so far:
 
 --
+### Blackjack Game
+Just another simple excercise with javascript from Scrimba Front End Developer -course.
+
+Uses Math.random() -static method to draw random cards from the deck and keep tracking when exceeding 21. Applies scores so the ace is 11 and jack, queen and king counts as 10. Number cards have their face value.
+
+Separate repo here https://github.com/NNmaki/BlackJackGameScrimba
+
+Live version https://nnmaki.com/blackjack/
+
+
+--
 ### Basketball Scoreboard
 This JavaScript application keeps track of the scores in a basketball game based on user inputs. User can add 1, 2, or 3 points to either the home or guest side.
 
