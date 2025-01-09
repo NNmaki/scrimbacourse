@@ -19,6 +19,7 @@ Separate repo here https://github.com/NNmaki/BlackJackGameScrimba
 
 Live version https://nnmaki.com/blackjack/
 
+![blackjack_github](https://github.com/user-attachments/assets/89c59278-e33c-44cd-bfce-42903132aa38)
 
 --
 ### Basketball Scoreboard
