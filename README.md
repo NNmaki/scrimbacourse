@@ -9,6 +9,17 @@ Will update this project as I progress.. 😀
 
 Excercises so far:
 
+--
+### Basketball Scoreboard
+This JavaScript application keeps track of the scores in a basketball game based on user inputs. User can add 1, 2, or 3 points to either the home or guest side.
+
+Ive also added some "extra features," such as a timer for periods, a highlighted leading team, and some popup windows.
+
+Separate repo here https://github.com/NNmaki/BasketballScoreboard
+
+Live version https://nnmaki.com/scoreboard/
+
+![basketball_scoreboard_github](https://github.com/user-attachments/assets/74147c76-66d3-4144-b335-acaa675b6dc5)
 
 --
 ### Hometown Homepage
