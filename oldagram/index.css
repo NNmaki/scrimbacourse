@@ -1,0 +1,119 @@
+body {
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #ededed;
+}
+
+.content-wrapper {
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    width: 375px;
+    margin: 10px auto;
+}
+
+header {
+    border-bottom: 1px solid #c6c6c6;
+    margin: 0 auto;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post {
+    margin-bottom: 20px; 
+    border-bottom: 1px solid #c6c6c6;
+}
+
+.post-section {
+    background-color: white;
+    width: 375px;
+    min-height: 545px;
+    padding: 0;
+}
+
+.post-section, h2 {
+     margin: 0;
+     font-size: 1rem;
+}
+
+.post-section, h3 {
+     margin: 0;
+     font-size: 1rem;
+     font-weight: 400;
+}
+
+.post-info {
+    padding: 5px 5px;
+    gap: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: white;
+}
+
+.post-info, p {
+    margin: 5px 0;
+}
+
+.name-location {
+    text-align: left;
+}
+
+.post-icons {
+    padding: 5px 10px;
+    justify-content: start;
+    display: flex;
+    margin-bottom: 0;
+}
+
+.post-data {
+    margin-top: 0;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.post-data, p {
+    margin: 0;
+    font-size: 14px;
+}
+
+/* -------images etc..------- */
+#oldagram-logo {
+    width: 127px;
+    margin: 4px 8px;
+}
+
+#user-avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    margin: 4px 8px;
+}
+
+#post-avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+}
+
+#post-pic-img {
+    width: 375px;
+    height: 375px;
+}
+
+.icon {
+    width: 23px;
+    margin: 5px 5px;
+}
+
+.icon:hover, .icon:focus {
+    opacity: 60%;
+    
+}
+
+
