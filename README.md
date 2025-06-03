@@ -10,6 +10,15 @@ Will update this project as I progress.. 😀
 Excercises so far:
 
 --
+### Oldagram - Insta clone
+Small project for learning more styling with given instructions. Added also some additional features, e.g. rendering posts with JavaScript and functionality for adding/ increasing likes.
+
+Live version here: https://nnmaki.com/oldagram/
+
+![oldagram](https://github.com/user-attachments/assets/0fb5eebe-af70-4bc7-8d0a-68643bebbc93)
+
+
+--
 ### Blackjack Game
 Just another simple excercise with javascript from Scrimba Front End Developer -course.
 
